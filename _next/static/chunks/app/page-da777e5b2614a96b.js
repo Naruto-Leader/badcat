@@ -364,12 +364,12 @@
               className: "flex items-start justify-center space-x-8",
               children: [
                 (0, n.jsx)(h, {
-                  href: "https://t.me/badcathero",
+                  href: "https://t.me/badcat_bep20",
                   onClick: () => e("Telegram"),
                   children: (0, n.jsx)(l, { className: "fill-foreground" }),
                 }),
                 (0, n.jsx)(h, {
-                  href: "https://x.com/badcathero",
+                  href: "https://x.com/badcat_bep20",
                   onClick: () => e("X"),
                   children: (0, n.jsx)(i, { className: "fill-foreground" }),
                 }),
