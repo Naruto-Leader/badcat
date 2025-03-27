@@ -381,7 +381,7 @@
               children: [
                 
                 (0, n.jsx)(h, {
-                  href: "https://dexscreener.com/bsc/0x00000000000000000000000000000000000000",
+                  href: "https://dexscreener.com/bsc/0xD1b3721a5eE170923911591bAde85eFdee4D6f8f",
                   className: "py-3 px-4",
                   onClick: () => {
                     var e, t;
